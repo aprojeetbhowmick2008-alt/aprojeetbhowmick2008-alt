@@ -4,7 +4,7 @@
 
 I'm a freelance web developer based in **New Delhi, India**, building responsive websites, education platforms and practical workflow automation. I'm also pursuing a **B.Sc. at IGNOU** and enjoy turning complex processes into clear, usable experiences.
 
-**[Explore my portfolio ↗](https://aprojeetbhowmick.me)** · **[Discuss a project](https://aprojeetbhowmick.me/contact.html)** · **[LinkedIn](https://www.linkedin.com/in/aprojeetbhowmick)**
+**[Explore my portfolio ↗](https://aprojeetbhowmick.me)** · **[Discuss a project](https://aprojeetbhowmick.me/contact.html)** · **[LinkedIn](https://www.linkedin.com/in/aprojeetbhowmick)** · **[Instagram](https://www.instagram.com/gentlex.aprojeet/)**
 
 ---
 

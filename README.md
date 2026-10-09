@@ -2,7 +2,7 @@
 
 ### Thoughtful websites. Useful web apps. Less busywork.
 
-I'm a freelance web developer based in **New Delhi, India**, building responsive websites, education platforms and practical workflow automation. I'm also pursuing a **B.Sc. at IGNOU** and enjoy turning complex processes into clear, usable experiences.
+I'm a freelance web developer based in **New Delhi, India**, building responsive websites, education platforms and practical workflow automation. I'm pursuing **B.Sc. Medical Laboratory Technology at the College of Medical Lab Technology, Hindu Rao Hospital, Delhi**, alongside my **B.Sc. at IGNOU** and enjoy turning complex processes into clear, usable experiences.
 
 **[Explore my portfolio ↗](https://aprojeetbhowmick.me)** · **[Discuss a project](https://aprojeetbhowmick.me/contact.html)** · **[LinkedIn](https://www.linkedin.com/in/aprojeetbhowmick)** · **[Instagram](https://www.instagram.com/gentlex.aprojeet/)**
 
@@ -42,6 +42,12 @@ Three self-initiated projects you can try in your browser:
 | Backend & data | Node.js, Python, PostgreSQL |
 | Automation | Google Apps Script, Google Workspace |
 | Delivery | Git, GitHub, GitHub Pages |
+
+## Education & credentials
+
+- **B.Sc. Medical Laboratory Technology** — College of Medical Lab Technology, Hindu Rao Hospital, Malka Ganj, Delhi. Enrolled in 2026; admission completed. **All India Rank 552, PARA MEDICAL 2026.**
+- **B.Sc. — IGNOU** — ongoing alongside B.Sc. MLT.
+- **Foundations of Cybersecurity — Google / Coursera** — completed 10 September 2026. [Verify course certificate](https://coursera.org/verify/0ZEZA3MJWYJO).
 
 ## How I work
 
